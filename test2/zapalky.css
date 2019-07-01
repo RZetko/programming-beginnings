@@ -1,0 +1,71 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	background: #cccccc;
+}
+
+
+h1  {
+	font-size: 130%;
+	margin: 0px;
+}
+
+
+div {	
+}
+
+.vonkajsi {
+	background: #ffffff;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: solid 2px #000000;
+       padding: 30px;
+}
+
+.nadpis {
+	font-size: 130%;
+	color: #666666;
+	border-bottom: solid 1px #666666;
+}
+
+.instrukcie {
+}
+
+.obsah {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	margin-bottom: 30px;
+}
+
+.chyba {
+	font-size: 130%;
+	color: #ff0000;
+}
+
+.chyba p {
+	text-align: center;
+}
+
+.formular {
+	border: solid 2px #485E88;
+	background: #CBDBFE;
+	padding: 10px;
+}
+
+.formular p {
+	text-align: center;
+	margin: 0px;
+}
+
+.footer {
+	border-top: solid 1px #666666;
+	
+}
+
+.footer p {
+	margin: 0px;
+}

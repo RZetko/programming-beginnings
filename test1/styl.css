@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+}
+
+h1 {
+	font-size: 150%;
+	color: #ff0000;
+	border-bottom: solid 1px #cccccc;
+	padding: 3px;
+}
+
+div {
+	border: solid 1px #cccccc;
+}
+
+.vonkajsi {
+	background: #0030ff;
+	background-image: url('strom.jpg');
+	background-repeat: no-repeat;
+}
+.vnutorny {
+	background: #c0ffff;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: solid 1px #999999;
+}

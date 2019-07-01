@@ -1,0 +1,11 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	background: #CCCCCC;
+}
+
+.obsah {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}

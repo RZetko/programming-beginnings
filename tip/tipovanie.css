@@ -1,0 +1,62 @@
+body {
+	font-family: Arial, Calibri, sans-serif;
+	font-size: 1em;
+	background: #CCCCCC;
+}
+
+h1 {
+	font-size: 130%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+}
+
+.vonkajsi {
+	background: #ffffff;
+	width: 600px;
+	border: solid 2px #000000;
+        padding: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+.obsah {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding: 10px;
+	width: 400px;
+	text-align: center;
+	
+}	 
+.instrukcie {
+}
+
+.instrukcie p {
+	text-align: center;
+}
+
+
+.tip {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	text-align: center;
+}
+
+.footer {
+	border-top: solid 1px #666666;
+	margin-top: 50px
+}
+
+.footer p {
+	margin: 0px
+}
+
